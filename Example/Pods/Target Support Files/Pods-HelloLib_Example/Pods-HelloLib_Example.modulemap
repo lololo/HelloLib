@@ -1,0 +1,6 @@
+framework module Pods_HelloLib_Example {
+  umbrella header "Pods-HelloLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

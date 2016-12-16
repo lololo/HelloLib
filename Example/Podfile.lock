@@ -1,0 +1,19 @@
+PODS:
+  - HelloLib (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - HelloLib (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  HelloLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HelloLib: 984593d925c8bdde7bde63f188191a0f061360f5
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: a1d05cb4d215456dc08dedbbd40e7bf6ee70dcad
+
+COCOAPODS: 1.0.1
