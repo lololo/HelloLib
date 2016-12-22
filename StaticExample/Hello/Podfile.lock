@@ -1,0 +1,16 @@
+PODS:
+  - HelloLib (0.1.0)
+
+DEPENDENCIES:
+  - HelloLib (from `../../HelloLib-0.1.0/HelloLib.podspec`)
+
+EXTERNAL SOURCES:
+  HelloLib:
+    :path: "../../HelloLib-0.1.0/HelloLib.podspec"
+
+SPEC CHECKSUMS:
+  HelloLib: a385d1c07c493e4937eb72935630fa9f025a3cbc
+
+PODFILE CHECKSUM: de6271911db134b26a181266fe8f5acce2868f9a
+
+COCOAPODS: 1.1.1

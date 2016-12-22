@@ -1,0 +1,23 @@
+{
+  "name": "HelloLib",
+  "version": "0.1.0",
+  "summary": "A short description of HelloLib.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ray": "guolei912@gmail.com"
+  },
+  "homepage": "https://github.com/<GITHUB_USERNAME>/HelloLib",
+  "description": "TODO: Add long description of the pod here.",
+  "source": {
+    "path": "."
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_libraries": "ios/libHelloLib.a"
+  }
+}

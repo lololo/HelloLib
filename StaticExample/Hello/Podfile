@@ -1,0 +1,7 @@
+use_frameworks!
+
+target 'Hello' do
+  pod 'HelloLib', :path => ‘../../HelloLib-0.1.0/HelloLib.podspec’
+
+end
+ 
